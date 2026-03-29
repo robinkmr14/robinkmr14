@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C, C++, JAVA, Data Structure**, HTML, CSS, JAVASCRIPT
 
-- 👨‍💻 All of my projects are available at [https://github.com/robinkumaar](https://github.com/robinkmr14)
+- 👨‍💻 All of my projects are available at [https://github.com/robinkmr14](https://github.com/robinkmr14)
 
 - 💬 Ask me about **C, C++, JAVA, Data Structure**, HTML, CSS, JAVASCRIPT
 
