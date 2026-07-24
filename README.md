@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robinkmr14&label=Profile%20views&color=0e75b6&style=flat" alt="robinkmr14" /> </p>
 
-- 🌱 I’m currently learning **C, C++, JAVA, Data Structure**, HTML, CSS, JAVASCRIPT
+- 🌱 I’m currently learning **Python, NumPy, Pandas, Matplotlib, Seaborn, SQL, Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/robinkmr14](https://github.com/robinkmr14)
 
