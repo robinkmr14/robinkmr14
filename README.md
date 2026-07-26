@@ -21,7 +21,6 @@
 
 - 🔭 Currently diving deep into **Data Science with Generative AI**
 - 🌱 Learning **Python, OOPs, Data Analysis Libraries (NumPy, Pandas, Matplotlib, Seaborn, Plotly), SQL, MongoDB, Machine Learning & LLMs**
-- 💻 Comfortable with **HTML, CSS, JavaScript** for full stack basics
 - 📁 All my projects are here → [github.com/robinkmr14](https://github.com/robinkmr14)
 - 💬 Ask me about **Python, OOPs, Data Structures, SQL, MongoDB, Data Analysis**
 - 📫 Reach me at **robinkmryadav.com**
