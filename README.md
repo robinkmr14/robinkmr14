@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hi%20There,%20I'm%20Robin%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20|%20GenAI%20Enthusiast&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=300&section=header&text=Hi%20There,%20I'm%20Robin%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Aspiring%20Data%20Scientist%20|%20GenAI%20Enthusiast&descAlignY=50&descSize=18"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Data+Science+%7C+Machine+Learning;Generative+AI+Explorer;Python+%7C+SQL+%7C+MongoDB+Developer;Turning+Data+into+Decisions+%F0%9F%93%8A" alt="Typing SVG" />
@@ -63,7 +63,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=robinkmr14&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=robinkmr14&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -72,13 +72,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/robin-kumar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img style="border:0;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/robin_kmr16" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img style="border:0;" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/@blackhatjr.332" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img style="border:0;" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
 
@@ -99,4 +99,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=robinkmr14&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0f2027&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0f2027&height=200&section=footer"/>
