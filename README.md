@@ -20,7 +20,7 @@
 ### 🚀 About Me
 
 - 🔭 Currently diving deep into **Data Science with Generative AI**
-- 🌱 Learning **Python, OOPs, Data Analysis Libraries (NumPy, Pandas, Matplotlib, Seaborn), SQL, MongoDB, Machine Learning & LLMs**
+- 🌱 Learning **Python, OOPs, Data Analysis Libraries (NumPy, Pandas, Matplotlib, Seaborn, Plotly), SQL, MongoDB, Machine Learning & LLMs**
 - 💻 Comfortable with **HTML, CSS, JavaScript** for full stack basics
 - 📁 All my projects are here → [github.com/robinkmr14](https://github.com/robinkmr14)
 - 💬 Ask me about **Python, OOPs, Data Structures, SQL, MongoDB, Data Analysis**
@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/> 
   <br/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
