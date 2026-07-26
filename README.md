@@ -70,9 +70,6 @@
   <a href="https://instagram.com/robin_kmr16" target="_blank">
     <img style="border:0;" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/@blackhatjr.332" target="_blank">
-    <img style="border:0;" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
 </p>
 
 ---
